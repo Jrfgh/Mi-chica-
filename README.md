@@ -11,6 +11,6 @@
     <p>Eres la luz de mi vida y cada día a tu lado es un regalo.</p>
     <p>Gracias por hacerme feliz y por todo lo que compartimos juntos.</p>
     <p>Te amo más de lo que las palabras pueden expresar.</p>
-    <p>Con todo mi corazón, tu [Tu nombre]</p>
+    <p>Con todo mi corazón, tu chico</p>
 </body>
 </html>
