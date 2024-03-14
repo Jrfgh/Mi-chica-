@@ -18,22 +18,13 @@
         #diversion {
             margin-top: 50px;
         }
-        img {
-            max-width: 100%;
-            height: auto;
-            margin-top: 20px;
-        }
     </style>
 </head>
 <body>
     <h1>¡Bienvenida a la diversión!</h1>
     <div id="diversion">
         <p>Aquí tienes algo para divertirte:</p>
-        <ul>
-            <li>Chiste del día: <a href="#">¿Qué le dice un jardinero a otro? ¡Estamos en las mismas hojas!</a></li>
-            <li>Juego Sorpresa: <a href="https://www.minijuegos.com/juego/2048">¡Juega al 2048!</a></li>
-            <li>Galería de Fotos: <a href="https://emojipedia.org/es/coraz%C3%B3n-azul-claro">Ver corazón azul claro</a></li>
-        </ul>
+        <p>1. <a href="#">¿Qué le dice un jardinero a otro?</a> <br> 2. <a href="https://www.minijuegos.com/juego/2048">¡Juega al 2048!</a> <br> 3. <a href="https://emojipedia.org/es/coraz%C3%B3n-azul-claro">Ver corazón azul claro</a></p>
     </div>
 </body>
 </html>
