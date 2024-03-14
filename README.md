@@ -23,6 +23,8 @@
         function mostrarRespuesta() {
             var respuesta = document.getElementById("respuesta");
             respuesta.innerHTML = "¡Estamos en las mismas hojas!";
+            // Devolver false para evitar que el navegador siga el enlace
+            return false;
         }
     </script>
 </head>
